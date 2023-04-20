@@ -27,5 +27,3 @@ Zekul is an open-source project and we welcome contributions from anyone who wan
 ## License
 
 Zekul is licensed under the MIT License.
-
-I hope this helps you get started with your project! 😊
