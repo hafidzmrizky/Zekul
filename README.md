@@ -1,4 +1,4 @@
-# Zekul
+# Zekul [any development is on hold for the moment being, due to the shortage of resources.]
 
 Zekul is a communicating app for students and school. It allows you to chat with your classmates, teachers, and school staff easily and securely. You can also share files, create groups, schedule events, and access school resources.
 
